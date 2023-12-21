@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "294471575154",
+    "project_id": "store-c0bad",
+    "storage_bucket": "store-c0bad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294471575154:android:c6cc6c5db35686ac4644eb",
+        "android_client_info": {
+          "package_name": "com.rmaprojects.rmacam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294471575154-1m5rjn32lpt3bh69ri2fhlnko8mt6kc4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOQd01pUjdrBmWPJAa8r3x2nXqtppBW94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294471575154-1m5rjn32lpt3bh69ri2fhlnko8mt6kc4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
